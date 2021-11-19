@@ -15,7 +15,7 @@ temporary tables, aggregates functions, CASE statements, and aliases. Performanc
 * User Analysis: Look at user behavior and repeat sessions, and use MySQL techniques to identify our most valuable customers and explore which channels they 
   are coming from.
 
-Below are links that shows monthly trends analysis on the products and the behavior of the customers
+Below are links that shows monthly trends analysis on the products and the behavior of the customers <br />
 [Product Analysis](./table_summary.xlsx)
 [User Analysis](./user_analysis_dash.xlsx)
 
