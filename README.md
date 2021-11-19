@@ -16,6 +16,6 @@ temporary tables, aggregates functions, CASE statements, and aliases. Performanc
   are coming from.
 
 Below are links that shows monthly trends analysis on the products and the behavior of the customers <br />
-[Product Analysis](./table_summary.xlsx)
+[Product Analysis](./table_summary.xlsx) <br />
 [User Analysis](./user_analysis_dash.xlsx)
 
